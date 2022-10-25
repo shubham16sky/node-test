@@ -1,8 +1,8 @@
-import dotenv from "dotenv";
-dotenv.config({
-    encoding: "utf8",
-    path: path.resolve(process.cwd(), ".env"),
-});
+// import dotenv from "dotenv";
+// dotenv.config({
+//     encoding: "utf8",
+//     path: path.resolve(process.cwd(), ".env"),
+// });
 
 
 
