@@ -1,3 +1,11 @@
+import dotenv from "dotenv";
+dotenv.config({
+    encoding: "utf8",
+    path: path.resolve(process.cwd(), ".env"),
+});
+
+
+
 var http = require('http');
 // var port = process.env.node_port;
 
